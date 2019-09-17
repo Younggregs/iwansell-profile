@@ -63,12 +63,12 @@
 					<p>we all want to get things done on time-speed, on budget-affordable and with ease. thats all iwansell is about. <br /> its about you!</p>
 					<div class="download-button d-flex flex-row justify-content-start">
 						<div class="buttons flex-row d-flex">
-							<i class="fa fa-web" aria-hidden="true"></i>
+							<i class="fa fa-apple" aria-hidden="true"></i>
 							<div class="desc">
-								<a href="htpps://iwansell.com/">
+								<a href="https://apps.apple.com/vc/app/iwansell/id1478416524">
 									<p>
-										<span>Available</span> <br>
-										on Web
+										<span>Available IOS</span> <br>
+										on App Store
 									</p>
 								</a>
 							</div>
@@ -78,7 +78,7 @@
 							<div class="desc">
 								<a href="https://play.google.com/store/apps/details?id=com.merlinsbeardlab.iwansell">
 									<p>
-										<span>Available</span> <br>
+										<span>Available Android</span> <br>
 										on Play Store
 									</p>
 								</a>
@@ -87,7 +87,7 @@
 					</div>
 				</div>
 				<div class="banner-img col-lg-4 col-md-6">
-					<img class="img-fluid" src="img/s-shot.png" alt="">
+					<img class="img-fluid" src="img/s3.png" alt="">
 				</div>
 			</div>
 		</div>
@@ -182,7 +182,7 @@
 		<div class="container">
 			<div class="row align-items-center">
 				<div class="col-lg-5 home-about-left">
-					<img class="img-fluid" src="img/screenshots/s-shot3.png" alt="">
+					<img class="img-fluid" src="img/s3.png" alt="">
 				</div>
 				<div class="offset-lg-1 col-lg-5 home-about-right">
 					<h1>
@@ -213,7 +213,7 @@
 				<div class="col-lg-6">
 					<div class="section-title text-center">
 						<h2>Featured Screens</h2>
-						<p>Some screens from our android app.
+						<p>Some Screenshots from our IOS App.
 						</p>
 					</div>
 				</div>
@@ -221,16 +221,16 @@
 			<div class="row">
 				<div class="owl-carousel owl-screenshot">
 					<div class="single-screenshot">
-						<img class="img-fluid" src="img/screenshots/s-shot5.png" alt="">
+						<img class="img-fluid" src="img/s4.png" alt="">
 					</div>
 					<div class="single-screenshot">
-						<img class="img-fluid" src="img/screenshots/s-shot6.png" alt="">
+						<img class="img-fluid" src="img/s2.png" alt="">
 					</div>
 					<div class="single-screenshot">
-						<img class="img-fluid" src="img/screenshots/s-shot7.png" alt="">
+						<img class="img-fluid" src="img/s1.png" alt="">
 					</div>
 					<div class="single-screenshot">
-						<img class="img-fluid" src="img/screenshots/s-shot4.png" alt="">
+						<img class="img-fluid" src="img/s3.png" alt="">
 					</div>
 				</div>
 			</div>
@@ -302,12 +302,12 @@
 					<div class="col-lg-6 col-md-6 social-link">
 						<div class="download-button d-flex flex-row justify-content-end">
 							<div class="buttons flex-row d-flex">
-							<i class="fa fa-web" aria-hidden="true"></i>
+							<i class="fa fa-apple" aria-hidden="true"></i>
 							<div class="desc">
-								<a href="htpps://iwansell.com/">
+								<a href="https://apps.apple.com/vc/app/iwansell/id1478416524">
 									<p>
-										<span>Available</span> <br>
-										on Web
+										<span>Available IOS</span> <br>
+										on App Store 
 									</p>
 								</a>
 							</div>
@@ -317,7 +317,7 @@
 								<div class="desc">
 									<a href="https://play.google.com/store/apps/details?id=com.merlinsbeardlab.iwansell">
 										<p>
-											<span>Available</span> <br>
+											<span>Available Android</span> <br>
 											on Play Store
 										</p>
 									</a>
